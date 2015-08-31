@@ -1,0 +1,14 @@
+{
+  "name": "gulp-filter-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulptask.js",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-typescript": "^2.8.1",
+    "typescript": "^1.5.3"
+  },
+  "scripts": {
+    "test": "gulp"
+  }
+}
